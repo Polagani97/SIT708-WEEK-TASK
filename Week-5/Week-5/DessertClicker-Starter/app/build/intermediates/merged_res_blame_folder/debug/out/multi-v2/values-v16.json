@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android_studio_weekly_repos\\Extra\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sairu\\.gradle\\caches\\transforms-3\\e26590da42d1bee7be581a6ed74885b2\\transformed\\core-1.3.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sairu\\.gradle\\caches\\transforms-3\\43539b1ae1da48027b83f9f32f55e03c\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
